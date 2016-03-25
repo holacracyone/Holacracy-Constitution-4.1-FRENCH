@@ -1,6 +1,6 @@
 #**Appendix A**
 
-##Definition of Core Roles
+##Definition of Core Hats
 
 
 ###Lead Link
