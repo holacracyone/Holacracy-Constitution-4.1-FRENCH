@@ -69,15 +69,15 @@ Chaque Cercle va utiliser le **_“Processus de Gouvernance”_** décrit à l�
 
 De plus, chaque Cercle peut contrôler ses propres fonctions et activités, lesquelles sont considérées comme un des Domaines du Cercle, dans le but de définir des Politiques visant à limiter les Rôles du Cercle.
 
-#### 2.1.2 Les Rôles peuvent impacter les Domaines du Cercle
+#### 2.1.2 Les Rôles peuvent influencer les Domaines du Cercle
 
-Si vous remplissez un Rôle dans un Cercle, vous êtes autorisé à utiliser et à impacter tout Domaine contrôlé par le Cercle lui-même, ou tout Domaine sur lequel ce Cercle est autorisé à exercer un impact. Toutefois, vous devez respecter toute contrainte qui agit sur le Cercle lui-même ou qui est définie par Politique du Cercle, et vous ne pouvez pas contrôler ou réguler entièrement le Domaine selon les modalités de la Section 1.4 .
+Si vous remplissez un Rôle dans un Cercle, vous êtes autorisé à utiliser et à influencer tout Domaine contrôlé par le Cercle lui-même, ou tout Domaine sur lequel ce Cercle est autorisé à exercer un impact. Toutefois, vous devez respecter toute contrainte qui agit sur le Cercle lui-même ou qui est définie par Politique du Cercle, et vous ne pouvez pas contrôler ou réguler entièrement le Domaine selon les modalités de la Section 1.4 .
 
 De plus, vous ne pouvez pas transférer ou disposer du Domaine en tant que tel ni des actifs significatifs du Domaine, ni limiter considérablement les droits du Cercle relatifs au Domaine. Toutefois, ces restrictions ne s’appliquent pas si un Rôle ou un processus qui détient l’autorité requise vous y autorise.
 
 #### 2.1.3 Délégation de Contrôle
 
-Lorsqu’un Cercle définit un Domaine sur l’un de ses Rôles, l’autorité du Cercle pour impacter, contrôler et réguler ledit Domaine, est désormais déléguée audit Rôle et retirée au Cercle.
+Lorsqu’un Cercle définit un Domaine sur l’un de ses Rôles, l’autorité du Cercle pour influencer, contrôler et réguler ledit Domaine, est désormais déléguée audit Rôle et retirée au Cercle.
 
 Toutefois, le Cercle conserve le droit de modifier ou de supprimer cette délégation d’autorité sur le Domaine, ou de définir ou de modifier des Politiques visant à élargir ou à limiter l’autorité du Rôle sur le Domaine.
 
