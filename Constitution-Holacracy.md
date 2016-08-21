@@ -19,7 +19,7 @@ Les Associés de l’Organisation sont généralement tenus de réaliser un trav
 
 En votre qualité d’Associé de l’Organisation, vous avez les responsabilités suivantes dans le cadre de chaque Rôle auquel vous êtes affecté et que vous acceptez de remplir :
 
-#### 1.2.1 Processer les Tensions
+#### 1.2.1 Traiter les Tensions
 
 Vous êtes chargé de suivre la façon dont la Raison d’Être et les Redevabilités de votre Rôle sont exprimées et de la comparer avec votre vision de leur manifestation potentielle idéale, afin d’identifier les écarts entre la réalité et le potentiel que vous percevez (chaque écart est une « Tension »). Vous êtes par ailleurs chargé de tenter de résoudre ces Tensions en utilisant les autorités et autres mécanismes dont vous disposez en vertu de la présente Constitution.
 
