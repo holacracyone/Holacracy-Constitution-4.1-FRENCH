@@ -10,13 +10,15 @@ Le but de ce manuel de référence est d’aider à la compréhension de la 
 ### Exonération légale de responsabilité
 Les informations contenue dans ce document constituent la documen- tation des règles et des processus de Holacracy. HolacracyOne et iGi Par- tners ne sont pas des cabinets juridiques, ils fournissent ce document en l’état et sans aucune sorte de représentation ou de garantie. Avant d’uti- liser ce document de façon juridiquement contraignante, vous êtes invité à demander conseil à un conseiller juridique qualifié.
 
-### Licensing and Usage
-Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC. And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents. So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution - please include a link to http://holacracy.org/constitution. However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document. If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact HolacracyOne</a>!
+### License et Utilisation
+Comme Linux®, Wikipedia®, and Java®, Holacracy® est une marque déposée; dans ce cas, d'HolacracyOne, LLC. Et comme d'autres gérants de plateformes libres, HolacrayOne vise à maintenir l'intégrité de sa marque et de la qualité qu'elle représente. Nous vous invitons donc à partager vos propres modifications de la Constitution Holacracy® en suivant les terms de la license libre CC BY-SA 4.0, en soulignant que votre produit est dérivé de la Constitution Holacracy officielle - s'il vous plaît incluez un lien vers http://holacracy.org/constitution. Au delà de cette référence, cependant, vous êtes prié de ne pas nommer votre travail en utilisant la marque Holacracy, afin d'éviter toute confusion entre votre version and la version officielle. Si vous avez des questions, <a href="http://www.holacracy.org/contact/" target="_blank">contactez HolacracyOne</a>!
 
 ### Contributors
 Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
 
-Contributor to the current version is Bernard Marie Chiquet.
+Contributors to the current version are Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik and Kræn Hansen.
+
+Traduction en français par Bernard Marie Chiquet.
 
 ---
 
