@@ -65,7 +65,7 @@ Un **_“Cercle”_** est un Rôle qui peut être décomposé et contenir lui-m�
 
 #### 2.1.1 Définir des Rôles et des Politiques
 
-Chaque Cercle va utiliser le **_“Processus de Gouvernance”_** décrit à l’Article III de la présente Constitution pour définir et modifier des Rôles au sein du Cercle ou des Politiques régissant les Domaines du Cercle. Il est interdit de définir ou de modifier des Rôles ou des Politiques d’un Cercle en dehors de son Processus de Gouvernance, sauf si c’est est expressément autorisé par d’autres règles prévues par la présente Constitution.
+Chaque Cercle va utiliser le **_“Processus de Gouvernance”_** décrit à l’Article III de la présente Constitution pour définir et modifier des Rôles au sein du Cercle ou des Politiques régissant les Domaines du Cercle. Il est interdit de définir ou de modifier des Rôles ou des Politiques d’un Cercle en dehors de son Processus de Gouvernance, sauf si c’est expressément autorisé par d’autres règles prévues par la présente Constitution.
 
 De plus, chaque Cercle peut contrôler ses propres fonctions et activités, lesquelles sont considérées comme un des Domaines du Cercle, dans le but de définir des Politiques visant à limiter les Rôles du Cercle.
 
