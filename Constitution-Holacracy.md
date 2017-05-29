@@ -1,7 +1,7 @@
-#**Constitution d'Holacracy**
+# **Constitution d'Holacracy**
 
 
-##Préambule
+## Préambule
 
 La présente **_“Constitution”_** définit les règles et les processus pour la gouvernance et les opérations d'une organisation. Les **_“Ratifieurs”_** adoptent ces règles comme étant la structure d'autorité formelle de l' **_“Organisation”_** telle que spécifiée lors de l'adoption de la Constitution, laquelle peut être, soit l'entité dans son ensemble, soit une partie de l'entité que les Ratifieurs ont le pouvoir de gouverner et de diriger. Les Ratifieurs et tout tiers qui accepte de participer à la gouvernance et aux opérations de l'Organisation (ses **_“Associés”_**) peuvent se prévaloir des autorités conférées par la présente Constitution et acceptent d'être liés par les obligations et contraintes que celle-ci prévoit.
 
