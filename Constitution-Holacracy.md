@@ -1,4 +1,4 @@
-# **Constitution d'Holacracy**
+# **Constitution Holacracy 4.1**
 
 
 ## Préambule
