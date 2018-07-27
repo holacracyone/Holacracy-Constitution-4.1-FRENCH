@@ -18,7 +18,7 @@ Jusqu'à la version 4.0, la Constitution Holacracy était développée par Brian
 
 Les contributeurs de la version courante sont Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martin Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik et Kræn Hansen.
 
-Traduction en français par Bernard Marie Chiquet.
+Traduction en français par Bernard Marie Chiquet et iGi Partners.
 
 ---
 
