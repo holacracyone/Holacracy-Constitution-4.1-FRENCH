@@ -19,18 +19,18 @@ Les Associés de l’Organisation sont généralement tenus de réaliser un trav
 
 En votre qualité d’Associé de l’Organisation, vous avez les responsabilités suivantes dans le cadre de chaque Rôle auquel vous êtes affecté et que vous acceptez de remplir :
 
-#### 1.2.1 Processer les Tensions
+#### 1.2.1 Identifier et traiter les Tensions
 
 Vous êtes chargé de suivre la façon dont la Raison d’Être et les Redevabilités de votre Rôle sont exprimées et de la comparer avec votre vision de leur manifestation potentielle idéale, afin d’identifier les écarts entre la réalité et le potentiel que vous percevez (chaque écart est une « Tension »). Vous êtes par ailleurs chargé de tenter de résoudre ces Tensions en utilisant les autorités et autres mécanismes dont vous disposez en vertu de la présente Constitution.
 
-#### 1.2.2 Processer les Raisons d’Être et les Redevabilités
+#### 1.2.2 Exprimer la Raison d’Être et mettre en œuvre les Redevabilités
 
-Vous êtes chargé d’examiner régulièrement la façon de mettre en œuvre la Raison d’Être  et  chacune des Redevabilités de votre Rôle, en définissant :
+Vous êtes chargé d’examiner régulièrement la façon de mettre en œuvre la Raison d’Être et chacune des Redevabilités de votre Rôle, en définissant :
 
 - **(a)** les **_“Prochaine-Actions”_** qui désignent les actions que vous pouvez exécuter immédiatement et dont l’exécution immédiate est fort utile, du moins en l’absence de priorités concurrentes ; et
 - **(b)** les **_“Projets”_** qui désignent des résultats précis qui requièrent l’exécution de plusieurs actions consécutives, et qu’il est utile de poursuivre, du moins en l’absence de priorités concurrentes.
 
-#### 1.2.3 Processer les Projets
+#### 1.2.3 Conduire les Projets
 
 Vous êtes chargé d’examiner régulièrement la façon de mener à bien chaque Projet sur lequel vous travaillez activement dans votre Rôle, en définissant notamment les éventuelles Prochaine-Actions utiles à l’avancement du Projet.
 
