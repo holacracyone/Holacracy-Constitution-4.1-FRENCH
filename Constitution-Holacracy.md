@@ -50,9 +50,9 @@ Toutefois, vous ne pouvez pas exercer de contrôle ou avoir un impact concret su
 
 ### 1.4 Autorité sur les Domaines
 
-En tant qu’Associé affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d’impacter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
+En tant qu’Associé affecté à un Rôle, vous avez l’autorité de contrôler et de réguler chaque Domaine de votre Rôle. Vous pouvez exercer cette autorité au cas par cas, lorsque des tiers demandent l’autorisation d'affecter l’un de vos Domaines, en examinant la demande puis, en l’acceptant ou en la refusant.
 
-Vous pouvez également définir des **_“Politiques”_** pour vos Domaines, soit pour accorder à des tiers de l’autorité pour contrôler ou exercer un impact concret sur un Domaine, soit pour limiter la façon dont les tiers peuvent impacter un Domaine lorsqu’ils y sont déjà autorisés. Pour qu’une Politique soit valide, vous devez d’abord la publier sur un forum accessible à l’ensemble des Associés susceptibles d’être concernés.
+Vous pouvez également définir des **_“Politiques”_** pour vos Domaines, soit pour accorder à des tiers de l’autorité pour contrôler ou exercer un impact concret sur un Domaine, soit pour limiter la façon dont les tiers peuvent affecter un Domaine lorsqu’ils y sont déjà autorisés. Pour qu’une Politique soit valide, vous devez d’abord la publier sur un forum accessible à l’ensemble des Associés susceptibles d’être concernés.
 
 Les autorités qui vous sont accordées dans la présente section peuvent en outre être limitées par des contraintes définies dans la Section 2.1.3.
 
@@ -69,15 +69,15 @@ Chaque Cercle va utiliser le **_“Processus de Gouvernance”_** décrit à l�
 
 De plus, chaque Cercle peut contrôler ses propres fonctions et activités, lesquelles sont considérées comme un des Domaines du Cercle, dans le but de définir des Politiques visant à limiter les Rôles du Cercle.
 
-#### 2.1.2 Les Rôles peuvent impacter les Domaines du Cercle
+#### 2.1.2 Les Rôles peuvent affecter les Domaines du Cercle
 
-Si vous remplissez un Rôle dans un Cercle, vous êtes autorisé à utiliser et à impacter tout Domaine contrôlé par le Cercle lui-même, ou tout Domaine sur lequel ce Cercle est autorisé à exercer un impact. Toutefois, vous devez respecter toute contrainte qui agit sur le Cercle lui-même ou qui est définie par Politique du Cercle, et vous ne pouvez pas contrôler ou réguler entièrement le Domaine selon les modalités de la Section 1.4 .
+Si vous remplissez un Rôle dans un Cercle, vous êtes autorisé à utiliser et à affecter tout Domaine contrôlé par le Cercle lui-même, ou tout Domaine sur lequel ce Cercle est autorisé à exercer un impact. Toutefois, vous devez respecter toute contrainte qui agit sur le Cercle lui-même ou qui est définie par Politique du Cercle, et vous ne pouvez pas contrôler ou réguler entièrement le Domaine selon les modalités de la Section 1.4 .
 
 De plus, vous ne pouvez pas transférer ou disposer du Domaine en tant que tel ni des actifs significatifs du Domaine, ni limiter considérablement les droits du Cercle relatifs au Domaine. Toutefois, ces restrictions ne s’appliquent pas si un Rôle ou un processus qui détient l’autorité requise vous y autorise.
 
 #### 2.1.3 Délégation de Contrôle
 
-Lorsqu’un Cercle définit un Domaine sur l’un de ses Rôles, l’autorité du Cercle pour impacter, contrôler et réguler ledit Domaine, est désormais déléguée audit Rôle et retirée au Cercle.
+Lorsqu’un Cercle définit un Domaine sur l’un de ses Rôles, l’autorité du Cercle pour affecter, contrôler et réguler ledit Domaine, est désormais déléguée audit Rôle et retirée au Cercle.
 
 Toutefois, le Cercle conserve le droit de modifier ou de supprimer cette délégation d’autorité sur le Domaine, ou de définir ou de modifier des Politiques visant à élargir ou à limiter l’autorité du Rôle sur le Domaine.
 
@@ -478,7 +478,7 @@ Vous avez le devoir de processer promptement les messages et les requêtes des M
 
 - **(a) Requête pour Processer :** les autres Membres de Cercle peuvent vous demander de processer toute Redevabilité ou Projet dans le cadre d’un Rôle que vous remplissez au sein du Cercle. Si vous n’avez aucune Prochaine-Action de notée à ce sujet, vous devez en identifier une qui vous semble appropriée et la noter. S’il n’y en a pas, vous devez expliquer ce sur quoi vous êtes en attente. Il peut s’agir, soit d’une Prochaine-Action ou d’un Projet pris par un autre Rôle, soit d’un évènement ou d’une condition spécifique qui doit se produire avant que vous ne puissiez prendre une Prochaine-Action.
 - **(b) Requête pour un Projet ou une Prochaine-Action :** les autres Membres de Cercle peuvent vous demander de prendre une Prochaine Action ou un Projet particulier dans le cadre de l’un de vos Rôles dans le Cercle. Si cette Prochaine Action ou ce Projet vous parait sensé, vous devez l’accepter et le suivre. Dans le cas contraire, vous devez expliquer votre raisonnement, ou alors indiquer une autre Prochaine-Action ou Projet que vous prenez et qui vous semble répondre à l’objectif du demandeur.
-- **(c) Requête pour Impacter un Domaine :** les autres Membres de Cercle peuvent vous demander d’impacter un Domaine contrôlé par l’un de vos Rôles dans le Cercle. Si vous ne voyez pas d’objection à la demande, vous devez l’autoriser. Dans le cas contraire, vous devez expliquer votre(vos) Objection(s) au demandeur.
+- **(c) Requête pour affecter un Domaine :** les autres Membres de Cercle peuvent vous demander d’affecter un Domaine contrôlé par l’un de vos Rôles dans le Cercle. Si vous ne voyez pas d’objection à la demande, vous devez l’autoriser. Dans le cas contraire, vous devez expliquer votre(vos) Objection(s) au demandeur.
 
 #### 4.1.3 Devoir de priorisation
 
@@ -545,7 +545,7 @@ Vous pouvez prendre une Action Individuelle seulement si toutes les conditions s
 
 #### 4.3.2 Communication et Restauration
 
-À la suite d’une Action Individuelle, vous êtes tenu d’expliquer votre action et l’intention sous-jacente à tout Associé qui remplit un Rôle pouvant être impacté de manière significative. À la demande de l’un de ces Associés, vous êtes également tenu de prendre toute mesure raisonnable additionnelle visant à aider la résolution des Tensions créées par votre Action Individuelle.
+À la suite d’une Action Individuelle, vous êtes tenu d’expliquer votre action et l’intention sous-jacente à tout Associé qui remplit un Rôle pouvant être affecté de manière significative. À la demande de l’un de ces Associés, vous êtes également tenu de prendre toute mesure raisonnable additionnelle visant à aider la résolution des Tensions créées par votre Action Individuelle.
 
 Si votre Action Individuelle interférait réellement avec un autre Rôle ou violait un Domaine ou une Politique, vous devez alors cesser de prendre toute Action individuelle similaire à la demande de la personne qui habituellement contrôle ce Rôle, ce Domaine ou cette Politique, ou à la demande du Premier Lien du Cercle qui contient l’entité concernée.
 
@@ -577,7 +577,7 @@ Ils peuvent sinon laisser le Cercle d’Ancrage sans Premier Lien et créer alor
 
 Si le Cercle d’Ancrage ne dispose pas de Premier Lien, toutes les décisions qui, en temps normal, requièrent l’autorité du Premier Lien deviennent des résultats valides du Processus de Gouvernance du Cercle. Chaque Rôle au sein du Cercle peut donc exercer l’autorité d’un Premier Lien en proposant une décision qui utilise le processus et les règles définies à l’Article III, comme pour un changement de Gouvernance.
 
-De plus, dans un Cercle d’Ancrage sans Premier Lien, l’autorité habituelle des Rôles pour impacter de façon autocratique les Domaines du Cercle (selon la Section 2.1.2) est retirée. À la place, les Rôles du Cercle ne peuvent impacter ces Domaines que dans le cas où une Politique les y autorisent de manière explicite, ou sinon, en proposant une action et en utilisant le Processus de Gouvernance du Cercle, exactement de la même façon que celle décrite plus haut pour exercer l’autorité du Premier Lien.
+De plus, dans un Cercle d’Ancrage sans Premier Lien, l’autorité habituelle des Rôles pour affecter de façon autocratique les Domaines du Cercle (selon la Section 2.1.2) est retirée. À la place, les Rôles du Cercle ne peuvent affecter ces Domaines que dans le cas où une Politique les y autorisent de manière explicite, ou sinon, en proposant une action et en utilisant le Processus de Gouvernance du Cercle, exactement de la même façon que celle décrite plus haut pour exercer l’autorité du Premier Lien.
 
 #### 5.2.3 Raison d’Être de l’Organisation
 
