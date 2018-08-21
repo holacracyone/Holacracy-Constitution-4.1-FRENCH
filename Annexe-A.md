@@ -1,12 +1,11 @@
-#**Annexe A**
+# Annexe A
 
-##Définition des rôles structurels
+## Définition des rôles structurels
 
 
-###Premier Lien
+### Premier Lien
 
-**Raison d'Être :**
-_Le Premier Lien porte la Raison d’être de l’ensemble du Cercle._
+**Raison d'Être :** _Le Premier Lien porte la Raison d’être de l’ensemble du Cercle._
 
 **Domaines:**
 
@@ -23,11 +22,9 @@ _Le Premier Lien porte la Raison d’être de l’ensemble du Cercle._
 
 _Le Premier Lien porte également tous les Domaines et Redevabilités du Cercle qui ne sont pas délégués au sein du Cercle._
 
+### Second Lien
 
-
-###Second Lien
-
-**Raison d'Être :** _Au sein du Super-Cercle, le Second Lien porte la Raison d’Être du Sous-Cercle ; au sein du Sous-Cercle, la Raison d’Être du Second Lien est :_ les Tensions pertinentes à processer dans le Super-Cercle y sont apportées et traitées.
+**Raison d'Être :** Au sein du Super-Cercle, le Second Lien porte la Raison d’Être du Sous-Cercle ; au sein du Sous-Cercle, la Raison d’Être du Second Lien est : les Tensions pertinentes à processer dans le Super-Cercle y sont apportées et traitées.
 
 **Redevabilités :**
 
@@ -35,8 +32,7 @@ _Le Premier Lien porte également tous les Domaines et Redevabilités du Cercle 
 - Chercher à comprendre les Tensions transmises par les Membres de Cercle du Sous-Cercle et discerner celles qu’il est pertinent de processer dans le Super-Cercle
 - Donner de la visibilité au Super-Cercle sur la santé du Sous-Cercle, y compris rendre compte de tout indicateur ou point de check-list assigné à l’ensemble du Sous-Cercle
 
-
-###Facilitateur
+### Facilitateur
 
 **Raison d'Être :** Des pratiques de gouvernance et d’opérations du Cercle en ligne avec la Constitution.
 
@@ -45,8 +41,7 @@ _Le Premier Lien porte également tous les Domaines et Redevabilités du Cercle 
 - Faciliter les réunions du Cercle qui sont requises par la Constitution
 - Auditer les réunions et les registres des Sous-Cercles au besoin et déclarer une Rupture de Processus lorsqu’un type de comportement incompatible avec les règles de la Constitution est découvert 
 
-
-###Secrétaire
+### Secrétaire
 
 **Raison d'Être :** Gérer et stabiliser les registres officiels du Cercle et le processus de tenue de ces registres.
 
